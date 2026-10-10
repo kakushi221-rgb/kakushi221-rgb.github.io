@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "寓於塵，隱於世",
     "description": "",
-    "home_page_url": "https://kakushi221-rgb.github.io/kakushi221-rgb.github.io",
-    "feed_url": "https://kakushi221-rgb.github.io/kakushi221-rgb.github.io/feed.json",
+    "home_page_url": "https://kakushi221-rgb.github.io/kakushi221-rgb.github.io.",
+    "feed_url": "https://kakushi221-rgb.github.io/kakushi221-rgb.github.io./feed.json",
     "user_comment": "",
     "author": {
         "name": "寓隱"
     },
     "items": [
         {
-            "id": "https://kakushi221-rgb.github.io/kakushi221-rgb.github.io/test/",
-            "url": "https://kakushi221-rgb.github.io/kakushi221-rgb.github.io/test/",
+            "id": "https://kakushi221-rgb.github.io/kakushi221-rgb.github.io./test/",
+            "url": "https://kakushi221-rgb.github.io/kakushi221-rgb.github.io./test/",
             "title": "test",
             "content_html": "\n  <p>\n    \n  </p>",
             "author": {
