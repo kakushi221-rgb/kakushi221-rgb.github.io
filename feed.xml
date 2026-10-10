@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>寓於塵，隱於世</title>
-    <link href="https://kakushi221-rgb.github.io/feed.xml" rel="self" />
-    <link href="https://kakushi221-rgb.github.io" />
+    <link href="https://kakushi221-rgb.github.io/kakushi221-rgb./feed.xml" rel="self" />
+    <link href="https://kakushi221-rgb.github.io/kakushi221-rgb." />
     <updated>1970-01-01T08:00:00+08:00</updated>
     <author>
         <name>寓隱</name>
     </author>
-    <id>https://kakushi221-rgb.github.io</id>
+    <id>https://kakushi221-rgb.github.io/kakushi221-rgb.</id>
 
 </feed>
