@@ -4,4 +4,4 @@ User-agent: GPTBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://kakushi221-rgb.github.io/kakushi221-rgb.github.io/sitemap.xml
+Sitemap: https://kakushi221-rgb.github.io/sitemap.xml
